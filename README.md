@@ -1,6 +1,6 @@
 # Fatalshooting
 
-This is an in-class project using Jupyter notebook and python3.
+This is an in-class project using Jupyter Notebook and Python3.
 
 For more information: https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
 
